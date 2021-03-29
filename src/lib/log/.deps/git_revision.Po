@@ -1,0 +1,11 @@
+src/lib/log/git_revision.o: src/lib/log/git_revision.c \
+ /usr/include/stdc-predef.h orconfig.h src/lib/log/git_revision.h \
+ micro-revision.i
+
+/usr/include/stdc-predef.h:
+
+orconfig.h:
+
+src/lib/log/git_revision.h:
+
+micro-revision.i:
